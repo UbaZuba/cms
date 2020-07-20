@@ -77,14 +77,14 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4">
-                            <div class="ul-list-group">
+                            <ul class="list-group">
                                 <li class="list-group-item">
                                     <a href="">Posts</a>
                                 </li>
                                 <li class="list-group-item">
                                     <a href="">Categories</a>
                                 </li>
-                            </div>
+                            </ul>
                         </div>
                         <div class="col-md 8">
                             @yield('content')
